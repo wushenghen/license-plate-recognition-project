@@ -1,0 +1,10 @@
+﻿# 忽略大数据集与本地临时文件
+train_chars*/
+output*/
+__pycache__/
+*.pyc
+*.zip
+*.inspect.ndjson
+~$*.pptx
+.DS_Store
+Thumbs.db

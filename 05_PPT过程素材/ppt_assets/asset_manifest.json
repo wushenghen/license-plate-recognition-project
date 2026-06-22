@@ -1,0 +1,91 @@
+{
+  "sample": "E:\\pycharm code\\pycharm python study\\final program\\test_images\\2.jpg",
+  "candidate_count": 5,
+  "best_score": 4.66663455782777,
+  "characters": 7,
+  "char_paths": [
+    "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\char_01.png",
+    "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\char_02.png",
+    "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\char_03.png",
+    "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\char_04.png",
+    "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\char_05.png",
+    "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\char_06.png",
+    "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\char_07.png"
+  ],
+  "training_examples": {
+    "京": [
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\京\\054285a6d37400ece48891dc1f93c5c8_01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\京\\10_01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\京\\2_01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\京\\a7b85b740bf193c3469cd5f8962c8772_01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\京\\ccpd_base_00341954022988-90__01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\京\\ccpd_base_0080471743295-90_8_01.png"
+    ],
+    "浙": [
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\浙\\1_01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\浙\\9_01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\浙\\ccpd_base_00439655172414-90__01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\浙\\ccpd_base_0051724137931-90_9_01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\浙\\ccpd_base_00549329501916-90__01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\浙\\ccpd_base_00573275862069-93__01.png"
+    ],
+    "川": [
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\川\\3_01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\川\\4_01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\川\\ccpd_base_00361111111111-90__01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\川\\ccpd_base_00859195402298-90__01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\川\\ccpd_base_0183548850574-90_8_01.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\川\\ccpd_base_0204214559386-96_7_01.png"
+    ],
+    "A": [
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\A\\10_02.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\A\\11_02.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\A\\1_02.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\A\\2_02.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\A\\4_02.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\A\\6_02.png"
+    ],
+    "B": [
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\B\\054285a6d37400ece48891dc1f93c5c8_03.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\B\\3_06.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\B\\8_02.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\B\\9_02.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\B\\ccpd_base_00382303639847-90__05.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\B\\ccpd_base_00431513409962-90__07.png"
+    ],
+    "1": [
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\1\\10_03.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\1\\2_05.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\1\\3_05.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\1\\ccpd_base_00414870689655-90__03.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\1\\ccpd_base_00447796934866-90__07.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\1\\ccpd_base_00451867816092-90__05.png"
+    ],
+    "8": [
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\8\\1_03.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\8\\4_03.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\8\\4_07.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\8\\a7b85b740bf193c3469cd5f8962c8772_04.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\8\\ccpd_base_003125-90_85-297&5_04.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\8\\ccpd_base_003125-90_85-297&5_07.png"
+    ],
+    "9": [
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\9\\1_05.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\9\\9_03.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\9\\9_04.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\9\\9_05.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\9\\c1d42422e43a6b3bb15820bacf737a5c_07.png",
+      "E:\\pycharm code\\pycharm python study\\final program\\train_chars_expanded_final\\9\\ccpd_base_00323275862069-90__05.png"
+    ]
+  },
+  "pipeline_assets": {
+    "original": "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\01_original.jpg",
+    "hsv_mask": "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\02_hsv_mask.png",
+    "morph_mask": "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\03_morph_mask.png",
+    "candidate": "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\04_candidate_box.jpg",
+    "plate": "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\05_plate_corrected.png",
+    "gray": "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\06_gray_plate.png",
+    "binary": "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\07_binary_clean.png",
+    "segmentation": "E:\\pycharm code\\pycharm python study\\final program\\final_delivery\\ppt_assets\\08_segmentation.png"
+  }
+}
