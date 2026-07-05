@@ -1,0 +1,28 @@
+车辆车牌识别项目扩展示例数据说明
+
+本次将示例图片从原来的 18 张扩展到 100 张。
+
+目录说明：
+1. test_images_extended
+   扩展示例图片目录，包含原项目 18 张测试图片，以及从 CCPD2019 随机抽取的 82 张图片。
+
+2. extended_plate_labels.csv
+   扩展示例标签表，记录每张示例图片的车牌标签、来源子集和原始文件路径。
+
+3. output_extended_examples
+   对 100 张扩展示例运行 license_plate_app.py 后得到的识别结果与中间过程图。
+
+4. create_extended_examples.py
+   扩展示例生成脚本。后续如需继续扩容，可在项目根目录运行：
+   py create_extended_examples.py --ccpd-count 182
+
+本次抽样不是顺序抽取，而是固定随机种子抽样，来源包括 ccpd_base、ccpd_challenge、ccpd_blur、ccpd_rotate、ccpd_tilt、ccpd_weather 等子集。
+
+本次扩展示例运行结果：
+- 扩展示例总数：100 张
+- 原项目示例：18 张
+- 新增 CCPD 示例：82 张
+- 车牌定位成功：91/100
+
+说明：
+CCPD2019 原始数据集体积较大，未完整放入项目仓库；这里只保留用于展示和复现实验的小规模扩展示例。
